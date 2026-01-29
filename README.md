@@ -85,6 +85,8 @@ Please follow the existing code style and keep commits focused and atomic.
 ## License & Attribution
 
 
+This project is protected under the  [![License](https://img.shields.io/badge/License-XyloGame-blue.svg)](https://github.com/X3r0Day/XyloGame/blob/main/LICENSE)
+
 You are free to use and modify this code, provided you give clear credit to **X3r0Day** and link back to this repository.
 
 You are free to use, modify, and distribute this software, but **you must provide appropriate credit** to project *"X3r0Day"* and provide a link to this Repository!
