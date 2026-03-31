@@ -104,3 +104,8 @@ If you modify this code or integrate it into your own project, you **must**:
 Author: XeroDay (Project X3r0Day)
 
 If you would like improvements to the build instructions, CI configuration, example screenshots, or packaging for distribution (native launchers), tell me which area to expand and I will update the README accordingly.
+
+
+"THIS CODE IS VERY READABLE"
+"THIS USER HAS CONTRIBUTED TO: https://github.com/torvalds/linux"
+"THIS USER HAS CONTRIBUTED TO: https://github.com/danielmiessler/seclists"
